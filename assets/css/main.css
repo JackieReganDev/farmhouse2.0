@@ -151,7 +151,9 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 980px) {
-
+#logo{
+	width: 100%;
+}
 			body, input, select, textarea {
 				font-size: 12pt;
 			}
